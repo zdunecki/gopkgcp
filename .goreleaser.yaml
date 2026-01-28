@@ -4,7 +4,7 @@ builds:
   - skip: true
 
 changelog:
-  use: github
+  use: github-native
   abbrev: 7
   sort: asc
   groups:
